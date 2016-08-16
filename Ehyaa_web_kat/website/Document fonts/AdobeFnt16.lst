@@ -1,0 +1,114 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeArabic-Regular
+FamilyName:Adobe Arabic
+StyleName:Regular
+FullName:Adobe Arabic Regular
+MenuName:Adobe Arabic
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:C:\Users\Abanoub\Desktop\Ehyaa_web_kat\website\Document fonts\AdobeArabic-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:299680
+FileModTime:1398982006
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Adobe Arabic
+NameArray:0,Mac,4,Adobe Arabic Regular
+NameArray:0,Win,1,Adobe Arabic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Regular
+FamilyName:Raleway
+StyleName:Regular
+FullName:Raleway Regular
+MenuName:Raleway
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Abanoub\Desktop\Ehyaa_web_kat\website\Document fonts\Raleway-Regular.ttf
+DataFormat:sfntData
+FileLength:176188
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Raleway Regular
+NameArray:0,Mac,4,Raleway Regular
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Sansation-Bold
+FamilyName:Sansation
+StyleName:Bold
+FullName:Sansation Bold
+MenuName:Sansation
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Abanoub\Desktop\Ehyaa_web_kat\website\Document fonts\Sansation_Bold.ttf
+DataFormat:sfntData
+FileLength:78740
+FileModTime:1351702656
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Sansation Bold
+NameArray:0,Win,1,Sansation
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Sansation-Regular
+FamilyName:Sansation
+StyleName:Regular
+FullName:Sansation Regular
+MenuName:Sansation
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Abanoub\Desktop\Ehyaa_web_kat\website\Document fonts\Sansation_Regular.ttf
+DataFormat:sfntData
+FileLength:78464
+FileModTime:1351702750
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Sansation Regular
+NameArray:0,Win,1,Sansation
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Sansumi-Bold
+FamilyName:Sansumi
+StyleName:Regular
+FullName:Sansumi-Bold
+MenuName:Sansumi
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Abanoub\Desktop\Ehyaa_web_kat\website\Document fonts\Sansumi-Bold.ttf
+DataFormat:sfntData
+FileLength:66744
+FileModTime:1411943678
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Sansumi-Bold
+NameArray:0,Win,1,Sansumi
+%EndFont
+
