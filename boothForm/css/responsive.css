@@ -1,0 +1,33 @@
+@media (max-width: 786px) {
+  *{
+    font-size: 14px;
+  }
+textarea{
+  width: 250px;
+  height: 55px;
+}
+input.form-control{
+
+}
+
+div.img-upload{
+}
+input.margin-sm{
+  margin-top: 8px;
+}
+div.top,div.top-small{
+  text-align:center;
+}
+input.input-sm{
+  width: 8%;
+margin: auto;
+}
+input.cat{
+  width: 50%;
+  margin: auto
+}
+input.centered-sm{
+  float: none;
+  margin: auto;
+}
+ }

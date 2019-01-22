@@ -2554,7 +2554,7 @@
 
 	#clients .client-logos .logos .item img{
 		max-width:105px;
-		max-height: 30px;
+		max-height: 50px;
 	}
 
 	#clients .client-logos .logos .item:hover{
